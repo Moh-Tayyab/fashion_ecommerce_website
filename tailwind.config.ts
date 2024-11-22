@@ -9,9 +9,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: '#024E82',
+        secondary: '#D6763C', 
+        text: '#555555',
+        heading: '#000000',
+        linear: '#A0AEAA',
       },
+      fontFamily: {
+        arimo: ['Arimo', 'sans-serif'],
+        },
     },
   },
   plugins: [],
