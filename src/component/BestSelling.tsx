@@ -64,7 +64,6 @@ const BestSelling = () => {
             width={295}
             height={342}
             alt="Shirt 4"
-            className=""
           />
           <h2 className="text-heading font-baloo text-[16px] mt-4">
             Pink Casual Shirt
