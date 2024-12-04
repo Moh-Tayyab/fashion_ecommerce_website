@@ -13,13 +13,13 @@ const Footer = () => {
             </h2>
             <nav className="list-none mb-10">
               <li>
-                <Link href={'/'} className="text-text hover:text-gray-800">About Us</Link>
+                <Link href={'/About'} className="text-text hover:text-gray-800">About Us</Link>
               </li>
               <li>
                 <Link href={'/'} className="text-text hover:text-gray-800">Latest Posts</Link>
               </li>
               <li>
-                <Link href={'/'} className="text-text hover:text-gray-800">Contact Us</Link>
+                <Link href={'/Contact'} className="text-text hover:text-gray-800">Contact Us</Link>
               </li>
               <li>
                 <Link href={'/'} className="text-text hover:text-gray-800">Shop</Link>
